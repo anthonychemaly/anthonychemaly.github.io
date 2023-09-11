@@ -1,3 +1,3 @@
 # anthonychemaly.github.io
-# You're early
-# go to anthonychemaly.com
+You're early
+go to https://anthonychemaly.com
